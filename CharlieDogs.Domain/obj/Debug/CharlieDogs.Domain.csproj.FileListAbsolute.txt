@@ -1,0 +1,6 @@
+C:\Users\Pichau\source\repos\CharlieDogs\CharlieDogs.Domain\bin\Debug\CharlieDogs.Domain.dll.config
+C:\Users\Pichau\source\repos\CharlieDogs\CharlieDogs.Domain\bin\Debug\CharlieDogs.Domain.dll
+C:\Users\Pichau\source\repos\CharlieDogs\CharlieDogs.Domain\bin\Debug\CharlieDogs.Domain.pdb
+C:\Users\Pichau\source\repos\CharlieDogs\CharlieDogs.Domain\obj\Debug\CharlieDogs.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\CharlieDogs\CharlieDogs.Domain\obj\Debug\CharlieDogs.Domain.dll
+C:\Users\Pichau\source\repos\CharlieDogs\CharlieDogs.Domain\obj\Debug\CharlieDogs.Domain.pdb

@@ -1,0 +1,13 @@
+<section class="content-header">
+  <h1>
+    Todos os Cães
+  </h1>
+</section>
+
+<section class="content">
+  <div class="row">
+    <div *ngFor="let cao of caes" class="col-sm-6 col-xs-12">
+      <app-cao [cao]="cao"></app-cao>
+    </div>
+  </div>
+</section>

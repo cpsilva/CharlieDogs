@@ -1,0 +1,104 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharlieDogs.BusinessLogic", "CharlieDogs.Business\CharlieDogs.BusinessLogic.csproj", "{46955DE9-8BAD-4EFE-992F-C2D48643CD65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharlieDogs.ApplicationService", "CharlieDogs.ApplicationService\CharlieDogs.ApplicationService.csproj", "{CAEBBD05-ABB9-4386-B6B3-44E30C2D801A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{802124A8-7527-4800-94C9-B4D500328D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharlieDogs.Business.Tests", "CharlieDogs.Business.Tests\CharlieDogs.Business.Tests.csproj", "{07138B42-4258-4F6C-8DAF-384A1F26DB21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharlieDogs.CrossCutting", "CharlieDogs.CrossCutting\CharlieDogs.CrossCutting.csproj", "{21E32BF7-8904-4848-8469-7763AFBC4F73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharlieDogs.Domain", "CharlieDogs.Domain\CharlieDogs.Domain.csproj", "{86F60961-1E55-4C02-8DEA-DFD86A06F3B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharlieDogs.DataAccess", "CharlieDogs.DataAccess\CharlieDogs.DataAccess.csproj", "{F846D74E-4F17-406C-B3A7-96278DADAF80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharlieDogs.Mapping", "CharlieDogs.Mapping\CharlieDogs.Mapping.csproj", "{66633E1D-B86A-4F8E-B3FB-C33F7C0B60D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharlieDogs.DependenceInjection", "CharlieDogs.DependenceInjection\CharlieDogs.DependenceInjection.csproj", "{A13B0015-338F-4BE5-8507-5D668F8E0529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharlieDogs.DataAccess.Tests", "CharlieDogs.DataAccess.Tests\CharlieDogs.DataAccess.Tests.csproj", "{34355B8B-563A-4EF3-A870-2610337F8846}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CharlieDogs.UserInterface(1)", "CharlieDogs.UserInterface\", "{AB93E459-0E85-4196-A8F4-34E412D84A0F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57817"
+		Debug.AspNetCompiler.PhysicalPath = "CharlieDogs.UserInterface\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57817\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57817"
+		Release.AspNetCompiler.PhysicalPath = "CharlieDogs.UserInterface\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57817\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57817"
+		SlnRelativePath = "CharlieDogs.UserInterface\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46955DE9-8BAD-4EFE-992F-C2D48643CD65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46955DE9-8BAD-4EFE-992F-C2D48643CD65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46955DE9-8BAD-4EFE-992F-C2D48643CD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46955DE9-8BAD-4EFE-992F-C2D48643CD65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAEBBD05-ABB9-4386-B6B3-44E30C2D801A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAEBBD05-ABB9-4386-B6B3-44E30C2D801A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAEBBD05-ABB9-4386-B6B3-44E30C2D801A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAEBBD05-ABB9-4386-B6B3-44E30C2D801A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07138B42-4258-4F6C-8DAF-384A1F26DB21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07138B42-4258-4F6C-8DAF-384A1F26DB21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07138B42-4258-4F6C-8DAF-384A1F26DB21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07138B42-4258-4F6C-8DAF-384A1F26DB21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21E32BF7-8904-4848-8469-7763AFBC4F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E32BF7-8904-4848-8469-7763AFBC4F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E32BF7-8904-4848-8469-7763AFBC4F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E32BF7-8904-4848-8469-7763AFBC4F73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F60961-1E55-4C02-8DEA-DFD86A06F3B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F60961-1E55-4C02-8DEA-DFD86A06F3B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F60961-1E55-4C02-8DEA-DFD86A06F3B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F60961-1E55-4C02-8DEA-DFD86A06F3B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F846D74E-4F17-406C-B3A7-96278DADAF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F846D74E-4F17-406C-B3A7-96278DADAF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F846D74E-4F17-406C-B3A7-96278DADAF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F846D74E-4F17-406C-B3A7-96278DADAF80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66633E1D-B86A-4F8E-B3FB-C33F7C0B60D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66633E1D-B86A-4F8E-B3FB-C33F7C0B60D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66633E1D-B86A-4F8E-B3FB-C33F7C0B60D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66633E1D-B86A-4F8E-B3FB-C33F7C0B60D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A13B0015-338F-4BE5-8507-5D668F8E0529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13B0015-338F-4BE5-8507-5D668F8E0529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13B0015-338F-4BE5-8507-5D668F8E0529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13B0015-338F-4BE5-8507-5D668F8E0529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34355B8B-563A-4EF3-A870-2610337F8846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34355B8B-563A-4EF3-A870-2610337F8846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34355B8B-563A-4EF3-A870-2610337F8846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34355B8B-563A-4EF3-A870-2610337F8846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB93E459-0E85-4196-A8F4-34E412D84A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB93E459-0E85-4196-A8F4-34E412D84A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB93E459-0E85-4196-A8F4-34E412D84A0F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB93E459-0E85-4196-A8F4-34E412D84A0F}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{07138B42-4258-4F6C-8DAF-384A1F26DB21} = {802124A8-7527-4800-94C9-B4D500328D15}
+		{34355B8B-563A-4EF3-A870-2610337F8846} = {802124A8-7527-4800-94C9-B4D500328D15}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D3CEF72-6D95-4B33-8047-49D7C8616159}
+	EndGlobalSection
+EndGlobal
