@@ -8,18 +8,18 @@
       <div class="box box-solid">
         <div class="box-header with-border">
           <i class="fa fa-home"></i>
-          <h3 class="box-title">Husky Siberiano</h3><span class="pull-right"><i class="fa fa-star"></i> 4.5</span>
+          <h3 class="box-title">Husky Siberiano</h3><span class="pull-right"><i class="fa fa-info-circle"></i></span>
         </div>
         <!-- /.box-header -->
         <div class="box-body">
           <div class="col-sm-3 col-xs-12">
-            <img class="box-img-detail" src="assets/img/restaurants/breadbakery.png" />
+            <img class="box-img-detail" [src]="cao?.imagem" />
           </div>
           <dl class="col-sm-9 col-xs-12">
             <dt>Porte</dt>
-            <dd>Médio</dd>
+            <dd>{{cao?.porte}}</dd>
             <dt>Peso</dt>
-            <dd>Até 30 Kg</dd>
+            <dd>Até {{cao?.peso}}</dd>
             <dt>Descricao</dt>
             <dd>teste teste teste teste</dd>
           </dl>
