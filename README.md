@@ -15,7 +15,7 @@ Repositorio que contem a aplicação desenvolvida em Angular 4 e C# da loja Char
 
 ### Inicializando o Servidor
 
-`ng serve` ou `npm start`
+`ng serve`
 
 ## Goodies
 
