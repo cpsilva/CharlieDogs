@@ -7,26 +7,26 @@ import { CaesComponent } from 'app/views/caes/caes.component';
 import { DetalheCaoComponent } from 'app/views/detalhe-cao/detalhe-cao.component';
 
 const routes: Routes = [
-  {
-    path: 'home',
-    component: HomeComponent
-  },
-  {
-    path: 'canil',
-    component: CaesComponent
-  },
-  {
-    path: 'detalhe-cao',
-    component: DetalheCaoComponent
-  },
+    {
+        path: 'home',
+        component: HomeComponent
+    },
+    {
+        path: 'canil',
+        component: CaesComponent
+    },
+    {
+        path: 'detalhe-cao/:id',
+        component: DetalheCaoComponent
+    },
 
-  { path: '', component: IndexComponent, pathMatch: 'full' },
+    { path: '', component: HomeComponent, pathMatch: 'full' },
 
-  { path: '**', redirectTo: '' }
+    { path: '**', redirectTo: '' }
 ];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+    imports: [RouterModule.forRoot(routes)],
+    exports: [RouterModule]
 })
 export class AppRoutingModule { }
