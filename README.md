@@ -17,18 +17,6 @@ Repositorio que contem a aplicação desenvolvida em Angular 4 e C# da loja Char
 
 `ng serve`
 
-## Goodies
-
-Expressões regulares usadas na validação de formulários
-
-### Email Regex
-
-`/^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i`
-
-### Number Regex
-
-`/^[0-9]*$/`
-
 ## Upgrade para Angular 4.4
 
 Dependências dos pacotes que devem ficar em package.json:
