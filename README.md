@@ -1,7 +1,7 @@
 # CharlieDogs
 Repositorio que contem a aplicação desenvolvida em Angular 4 e C# da loja Charlie &amp; Dogs
 
-# Charlie & Dogs - Angular App Starter
+# Charlie & Dogs - Angular Application
 
 ## 1. Passos para começar
 
