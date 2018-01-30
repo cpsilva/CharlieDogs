@@ -20,5 +20,11 @@ namespace CharlieDogs.BusinessLogic
 
             return AutoMapper.Mapper.Map<IEnumerable<CaesVM>>(lista);
         }
+
+        public CaesVM Selecionar(CaesVM cao)
+        {
+            var cachorro = _uow.QueryStack.Cachorros.Selecionar(x => x.IdCachorro == cao.IdCachorro);
+            return AutoMapper.Mapper.Map<CaesVM>(cachorro);
+        }
     }
 }

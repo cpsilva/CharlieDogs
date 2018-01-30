@@ -6,5 +6,7 @@ namespace CharlieDogs.BusinessLogic
     public interface ICaesBll
     {
         IEnumerable<CaesVM> Listar();
+
+        CaesVM Selecionar(CaesVM cao);
     }
 }
