@@ -4,3 +4,10 @@ C:\Users\Pichau\source\repos\CharlieDogs\CharlieDogs.Domain\bin\Debug\CharlieDog
 C:\Users\Pichau\source\repos\CharlieDogs\CharlieDogs.Domain\obj\Debug\CharlieDogs.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Pichau\source\repos\CharlieDogs\CharlieDogs.Domain\obj\Debug\CharlieDogs.Domain.dll
 C:\Users\Pichau\source\repos\CharlieDogs\CharlieDogs.Domain\obj\Debug\CharlieDogs.Domain.pdb
+C:\Git\CharlieDogs\CharlieDogs.Domain\bin\Debug\CharlieDogs.Domain.dll.config
+C:\Git\CharlieDogs\CharlieDogs.Domain\bin\Debug\CharlieDogs.Domain.dll
+C:\Git\CharlieDogs\CharlieDogs.Domain\bin\Debug\CharlieDogs.Domain.pdb
+C:\Git\CharlieDogs\CharlieDogs.Domain\obj\Debug\CharlieDogs.Domain.csprojResolveAssemblyReference.cache
+C:\Git\CharlieDogs\CharlieDogs.Domain\obj\Debug\CharlieDogs.Domain.csproj.CoreCompileInputs.cache
+C:\Git\CharlieDogs\CharlieDogs.Domain\obj\Debug\CharlieDogs.Domain.dll
+C:\Git\CharlieDogs\CharlieDogs.Domain\obj\Debug\CharlieDogs.Domain.pdb

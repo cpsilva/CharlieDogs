@@ -10,3 +10,16 @@ C:\Users\Pichau\source\repos\CharlieDogs\CharlieDogs.CrossCutting\bin\Debug\NLog
 C:\Users\Pichau\source\repos\CharlieDogs\CharlieDogs.CrossCutting\obj\Debug\CharlieDogs.CrossCutting.csproj.CoreCompileInputs.cache
 C:\Users\Pichau\source\repos\CharlieDogs\CharlieDogs.CrossCutting\obj\Debug\CharlieDogs.CrossCutting.dll
 C:\Users\Pichau\source\repos\CharlieDogs\CharlieDogs.CrossCutting\obj\Debug\CharlieDogs.CrossCutting.pdb
+C:\Git\CharlieDogs\CharlieDogs.CrossCutting\bin\Debug\CharlieDogs.CrossCutting.dll.config
+C:\Git\CharlieDogs\CharlieDogs.CrossCutting\bin\Debug\CharlieDogs.CrossCutting.dll
+C:\Git\CharlieDogs\CharlieDogs.CrossCutting\bin\Debug\CharlieDogs.CrossCutting.pdb
+C:\Git\CharlieDogs\CharlieDogs.CrossCutting\bin\Debug\Audit.NET.dll
+C:\Git\CharlieDogs\CharlieDogs.CrossCutting\bin\Debug\Newtonsoft.Json.dll
+C:\Git\CharlieDogs\CharlieDogs.CrossCutting\bin\Debug\NLog.dll
+C:\Git\CharlieDogs\CharlieDogs.CrossCutting\bin\Debug\Audit.NET.xml
+C:\Git\CharlieDogs\CharlieDogs.CrossCutting\bin\Debug\Newtonsoft.Json.xml
+C:\Git\CharlieDogs\CharlieDogs.CrossCutting\bin\Debug\NLog.xml
+C:\Git\CharlieDogs\CharlieDogs.CrossCutting\obj\Debug\CharlieDogs.CrossCutting.csprojResolveAssemblyReference.cache
+C:\Git\CharlieDogs\CharlieDogs.CrossCutting\obj\Debug\CharlieDogs.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Git\CharlieDogs\CharlieDogs.CrossCutting\obj\Debug\CharlieDogs.CrossCutting.dll
+C:\Git\CharlieDogs\CharlieDogs.CrossCutting\obj\Debug\CharlieDogs.CrossCutting.pdb
