@@ -14,11 +14,6 @@ namespace CharlieDogs.ApplicationService.Services
             _caesBll = caesBll;
         }
 
-        public IEnumerable<CaesVM> Get()
-        {
-            return _caesBll.Listar();
-        }
-
         public CaesVM Get([FromUri] CaesVM cao)
         {
             return _caesBll.Selecionar(cao);

@@ -8,7 +8,7 @@
       <div class="box box-solid">
         <div class="box-header with-border">
           <i class="fa fa-home"></i>
-          <h3 class="box-title">{{cao?.RacaDescricao}}</h3><span class="pull-right"><i class="fa fa-info-circle"></i></span>
+          <h3 class="box-title">{{cao?.racaDescricao}}</h3><span class="pull-right"><i class="fa fa-info-circle"></i></span>
         </div>
         <!-- /.box-header -->
         <div class="box-body">
@@ -22,6 +22,10 @@
             <dd>Até {{cao?.peso}}</dd>
             <dt>Descricao</dt>
             <dd>{{cao?.descricao}}</dd>
+            <dt>Data de Nascimento</dt>
+            <dd>{{cao?.dataNascimento | date: 'dd/MM/yyyy'}}</dd>
+            <dt>Quantidade em estoque</dt>
+            <dd>{{cao?.quantidade}}</dd>
           </dl>
         </div>
         <!-- /.box-body -->
@@ -30,15 +34,15 @@
     <!-- /.col-xs-12 -->
   </div>
 
-  <div class="row">
+  <!--<div class="row">
     <div class="col-md-3 col-xs-12">
-      <!--INICIO DO CARRINHO-->
+     
       <div class="box box-solid">
         <div class="box-header">
           <i class="fa fa-shopping-cart"></i>
           <h3 class="box-title">Carrinho</h3>
         </div>
-        <!-- /.box-header -->
+      
         <div class="box-body">
           <div class="table-responsive">
             <table class="table">
@@ -58,8 +62,6 @@
           </div>
         </div>
       </div>
-      <!-- FIM DO CARRINHO -->
     </div>
-    <!-- FIM DO MENU -->
-  </div>
+  </div>-->
 </section>

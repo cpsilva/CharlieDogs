@@ -10,7 +10,7 @@ export class CaesComponent implements OnInit {
 
   caes: caesVM[] = new Array<caesVM>();
 
-  servicoCaes = "Cao"
+  servicoCaes = "CaoGrid"
 
   constructor(
     private applicationService: ApplicationService
