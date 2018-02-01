@@ -7,7 +7,6 @@ C:\Git\CharlieDogs\CharlieDogs.CrossCutting\bin\Release\NLog.dll
 C:\Git\CharlieDogs\CharlieDogs.CrossCutting\bin\Release\Audit.NET.xml
 C:\Git\CharlieDogs\CharlieDogs.CrossCutting\bin\Release\Newtonsoft.Json.xml
 C:\Git\CharlieDogs\CharlieDogs.CrossCutting\bin\Release\NLog.xml
-C:\Git\CharlieDogs\CharlieDogs.CrossCutting\obj\Release\CharlieDogs.CrossCutting.csprojResolveAssemblyReference.cache
 C:\Git\CharlieDogs\CharlieDogs.CrossCutting\obj\Release\CharlieDogs.CrossCutting.csproj.CoreCompileInputs.cache
 C:\Git\CharlieDogs\CharlieDogs.CrossCutting\obj\Release\CharlieDogs.CrossCutting.dll
 C:\Git\CharlieDogs\CharlieDogs.CrossCutting\obj\Release\CharlieDogs.CrossCutting.pdb

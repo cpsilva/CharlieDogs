@@ -1,10 +1,6 @@
 ﻿using CharlieDogs.BusinessLogic;
 using CharlieDogs.Domain.ViewModel;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 
 namespace CharlieDogs.ApplicationService.Grid
@@ -20,7 +16,8 @@ namespace CharlieDogs.ApplicationService.Grid
 
         public IEnumerable<CaesVM> Get()
         {
-            return _caesBll.Listar();
+            var lista = _caesBll.Listar();
+            return lista;
         }
 
     }

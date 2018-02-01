@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CharlieDogs.Domain.Enums;
+using System;
 
 namespace CharlieDogs.Domain.ViewModel
 {
@@ -13,9 +14,9 @@ namespace CharlieDogs.Domain.ViewModel
 
         public decimal? Peso { get; set; }
 
-        public int? Porte { get; set; }
+        public EnumTipoPorte Porte { get; set; }
 
-        public int? CorPredominante { get; set; }
+        public EnumCorPredominante CorPredominante { get; set; }
 
         public decimal? Preco { get; set; }
 

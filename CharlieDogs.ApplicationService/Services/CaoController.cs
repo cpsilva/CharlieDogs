@@ -1,6 +1,5 @@
 ﻿using CharlieDogs.BusinessLogic;
 using CharlieDogs.Domain.ViewModel;
-using System.Collections.Generic;
 using System.Web.Http;
 
 namespace CharlieDogs.ApplicationService.Services

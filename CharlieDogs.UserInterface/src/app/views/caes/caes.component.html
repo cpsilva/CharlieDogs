@@ -2,11 +2,31 @@
   <h1>
     Todos os Cães
   </h1>
+  <br />
+</section>
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div id="custom-search-input">
+          <div class="input-group col-md-12">
+            <input type="text" class="form-control input-lg" [(ngModel)]="term" placeholder="Buscar" />
+            <span class="input-group-btn">
+              <button class="btn btn-danger btn-lg" disabled type="button">
+                <i class="glyphicon glyphicon-search"></i>
+              </button>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
 <section class="content">
   <div class="row">
-    <div *ngFor="let cao of caes" class="col-sm-6 col-xs-12">
+    <div *ngFor="let cao of caes | filter:term" class="col-sm-6 col-xs-12">
       <app-cao [cao]="cao"></app-cao>
     </div>
   </div>

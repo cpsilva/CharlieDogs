@@ -1,3 +1,9 @@
+C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\System.IO.Compression.dll
+C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\VBCSCompiler.exe
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\appSettings.config
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\connectionStrings.config
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\CharlieDogs.ApplicationService.dll.config
@@ -10,13 +16,9 @@ C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\csi.exe
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\csi.exe.config
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\csi.rsp
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\Microsoft.CodeAnalysis.dll
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\Microsoft.VisualBasic.Core.targets
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\Microsoft.Win32.Primitives.dll
@@ -26,7 +28,6 @@ C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\System.Console.dll
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\System.Diagnostics.Process.dll
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\System.IO.Compression.dll
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\System.IO.FileSystem.dll
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\System.IO.FileSystem.Primitives.dll
@@ -49,7 +50,6 @@ C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\System.Xml.XPath.XD
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\vbc.exe
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\vbc.exe.config
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\vbc.rsp
-C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\VBCSCompiler.exe
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\roslyn\VBCSCompiler.exe.config
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\Audit.NET.dll
 C:\Git\CharlieDogs\CharlieDogs.ApplicationService\bin\CharlieDogs.BusinessLogic.dll

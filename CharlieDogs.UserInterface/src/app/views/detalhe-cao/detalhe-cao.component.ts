@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { caesVM } from 'app/view-module/CaesVM';
 import { ActivatedRoute } from '@angular/router';
 import { ApplicationService } from 'app/shared/services/application.service';
+import { caesVM } from 'app/view-model/CaesVM';
 
 @Component({
   selector: 'app-detalhe-cao',
